@@ -14,4 +14,4 @@ After canceling, it will output a dynamic plot Output.gif that show the plot for
 
 master.py, is a combining script that call main.py and function.py.
 
-The source files are also compiled to .exe files that can use for Windows which can be found [here](https://drive.google.com/drive/folders/1cger0ftq7A_Lra9puRBEwgwmZrF9f1ue?usp=sharing)
+The source files are also compiled to .exe files using pyinstaller that can use for Windows which can be found [here](https://drive.google.com/drive/folders/1cger0ftq7A_Lra9puRBEwgwmZrF9f1ue?usp=sharing)
