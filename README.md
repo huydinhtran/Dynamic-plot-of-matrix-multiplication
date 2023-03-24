@@ -10,7 +10,7 @@ It will continue doing multiplication for every duration based on the time inter
 
 Press CTRL + C to cancel the program.
 
-After canceling, it will output a dynamic plot Output.gif that show the plot for each variable result of the matrix.
+After canceling, it will output a dynamic plot, Output.gif, that shows the plot for each variable result of the matrix.
 
 master.py, is a combining script that call main.py and function.py.
 
