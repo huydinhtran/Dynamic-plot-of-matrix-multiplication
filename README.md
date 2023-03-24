@@ -2,7 +2,7 @@
 
 For main.py, the program asks the user to enter the dimension for the square matrix and the time interval. 
 
-It will then create an n x n matrix with random values and a 1 x n matrix with random values for matrix multiplication.
+It will then create an n x n matrix with random values and an 1 x n matrix with random values for matrix multiplication.
 
 It will then feed the data to function.py to do the matrix multiplication and transfer back the results to main.py.
 
